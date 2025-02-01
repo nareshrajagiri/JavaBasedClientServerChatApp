@@ -1,0 +1,1 @@
+This project is a simple Java-based chat application that uses socket programming and multi-threading to allow a client and a server to exchange messages in real time. The server listens for connections on a specific port, while the client connects to it, enabling simultaneous sending and receiving of messages until one party exits the chat.
